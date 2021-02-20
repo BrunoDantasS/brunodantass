@@ -1,4 +1,4 @@
-### Boas Vindas! 👋
+### Boas Vindas!👋
 
 <a href="https://www.linkedin.com/in/brunodantass/">
   <img alt="Bruno's LinkdeIn" width="45px" src="images/linkedin.svg" />
