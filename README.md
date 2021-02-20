@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Olá, me chamo **Bruno Wesley** e sou um desenvolvedor front-end que mora em São Paulo, Brasil. 
+Olá, me chamo **Bruno** e sou um desenvolvedor front-end que mora em São Paulo, Brasil. 
 
 **Meus interesses pessoais:**
 
