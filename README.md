@@ -46,4 +46,7 @@ Olá! me chamo **Bruno** e sou um desenvolvedor front-end que mora em São Paulo
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnatas-henrique" alt="johnatas-henrique" /> </p>
 
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
+<br />
+<br />
+
+⭐️ Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique)
