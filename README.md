@@ -1,5 +1,6 @@
 # Boas Vindas!👋
-Meu nome **Bruno** e sou um desenvolvedor <br >front-end que mora em São Paulo, Brasil.
+
+<h3>Meu nome <strong>Bruno</strong> e sou um desenvolvedor front-end apaixonado por melancia <img src="images/melancia2.svg" width="25px"></h3>
 
 <div align="right">
 <a href="https://www.linkedin.com/in/brunodantass/">
