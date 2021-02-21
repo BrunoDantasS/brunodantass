@@ -1,5 +1,5 @@
 # Boas Vindas!👋
-### Meu nome **Bruno** e sou um desenvolvedor <br >front-end que mora em São Paulo, Brasil.
+Meu nome **Bruno** e sou um desenvolvedor <br >front-end que mora em São Paulo, Brasil.
 
 <div align="right">
 <a href="https://www.linkedin.com/in/brunodantass/">
@@ -14,7 +14,7 @@
 <br />
 <br />
 
-  <img align="right" alt="GIF" src="images/developer1.gif" width="400px" />
+  <img align="right" alt="GIF" src="images/developer4.gif" width="400px" />
 
 - 👨🏽‍💻 Atualmente estou me capacitando para ser um **Desenvolvedor Fullstack Júnior** com a ajuda da [Trybe](https://www.betrybe.com/) 🚀;
 - 🌱 No momento estou estudando a parte de back-end com **Express** que é um framework em **Node.js**;
