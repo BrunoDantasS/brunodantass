@@ -25,6 +25,8 @@ Meu nome **Bruno** e sou um desenvolvedor front-end apaixonado por melancia <img
 - 📫 Por favor, envie um email para bruno.wesley77@gmail.com para me encontrar.
 - 📝 Veja meu <a href="https://gitconnected.com/brunodantass/resume" target="_blank">Curriculum Vitae</a> para mais informações.
 
+<br />
+<br />
 
 **Linguagens e ferramentas:**  
 
@@ -39,6 +41,9 @@ Meu nome **Bruno** e sou um desenvolvedor front-end apaixonado por melancia <img
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
+
+<br />
+<br />
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=brunodantass&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="GitHub Stats" width="370" height="150"/>
