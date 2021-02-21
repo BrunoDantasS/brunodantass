@@ -27,6 +27,7 @@ Meu nome **Bruno** e sou um desenvolvedor front-end apaixonado por melancia <img
 
 <br />
 <br />
+<br />
 
 **Linguagens e ferramentas:**  
 
