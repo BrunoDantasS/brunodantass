@@ -1,18 +1,18 @@
-### Boas Vindas!👋
+# Boas Vindas!👋
+### Meu nome **Bruno** e sou um desenvolvedor <br >front-end que mora em São Paulo, Brasil.
 
+<div align="right">
 <a href="https://www.linkedin.com/in/brunodantass/">
-  <img alt="Bruno's LinkdeIn" width="45px" src="images/linkedin.svg" />
+  <img alt="Bruno's LinkdeIn" width="50px" src="images/linkedin.svg" />
 </a>
 <a href="mailto:bruno.wesley77@gmail.com" target="_blank">
-  <img alt="Bruno's LinkdeIn" width="48px" src="images/gmail.svg">
-</a>  
-
-<br />
-<br />
-
-Olá! me chamo **Bruno** e sou um desenvolvedor front-end que mora em São Paulo, Brasil. 
+  <img alt="Bruno's e-mail" width="50px" src="images/gmail.svg">
+</a>
+</div>
 
 **Meus interesses pessoais:**
+<br />
+<br />
 
   <img align="right" alt="GIF" src="images/developer1.gif" width="400px" />
 
