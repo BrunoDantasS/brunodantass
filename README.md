@@ -1,6 +1,6 @@
 ### Boas Vindas!👋
 
- Meu nome **Bruno** e sou um desenvolvedor front-end apaixonado por melancia <img src="images/melancia.svg" width="25px">
+ Meu nome **Bruno** e sou um desenvolvedor de software apaixonado por melancia <img src="images/melancia.svg" width="25px">
 
 <div align="right">
 <a href="https://www.linkedin.com/in/brunodantass/">
