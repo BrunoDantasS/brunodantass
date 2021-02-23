@@ -19,7 +19,7 @@
 
 - 👨🏽‍💻 Atualmente estou me capacitando para ser um **Desenvolvedor Fullstack Júnior** com a ajuda da [Trybe](https://www.betrybe.com/) 🚀;
 - 🌱 No momento estou estudando a parte de back-end com **Express** que é um framework em **Node.js**;
-- 🤔 Meu hobbie é jogar xadrez;<img src="images/chess-board.svg" width="25px">
+- 🤔 Meu hobbie é jogar xadrez &nbsp;<img src="images/chess-board.svg" width="20px">;
 - 💼 Estou sempre em busca de conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro conversar;
 - 📫 Por favor, envie um email para bruno.wesley77@gmail.com para me encontrar.
