@@ -1,7 +1,7 @@
 # Boas Vindas!👋
 
 _Meu nome **Bruno** e sou um desenvolvedor de software apaixonado por melancia_ <img src="images/melancia.svg" width="25px">
-
+___
 <div align="right">
 <a href="https://www.linkedin.com/in/brunodantass/">
   <img alt="Bruno's LinkdeIn" width="50px" src="images/linkedin.svg" />
