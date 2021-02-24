@@ -1,4 +1,4 @@
-## Boas Vindas!👋
+### Boas Vindas!👋
 
 _Meu nome **Bruno** e sou um desenvolvedor de software apaixonado por melancia_ <img src="images/melancia.svg" width="25px">
 ___
