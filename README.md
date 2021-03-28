@@ -47,8 +47,8 @@ ___
 <br />
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=brunodantass&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="GitHub Stats" width="400"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodantass&layout=compact&theme=graywhite&title_color=268bd2" alt="Most Used Languages" width="370" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=brunodantass&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="GitHub Stats" width="500"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodantass&layout=compact&theme=graywhite&title_color=268bd2" alt="Most Used Languages" width="500"/>
 </p>
 
 <br />
