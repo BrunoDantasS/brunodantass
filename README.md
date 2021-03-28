@@ -2,6 +2,7 @@
 
 _Meu nome **Bruno** e sou um desenvolvedor de software apaixonado por melancia_ <img src="images/melancia.svg" width="25px">
 ___
+
 <div align="right">
 <a href="https://www.linkedin.com/in/brunodantass/">
   <img alt="Bruno's LinkdeIn" width="50px" src="images/linkedin.svg" />
@@ -12,8 +13,8 @@ ___
 </div>
 
 **Meus interesses pessoais:**
-<br />
-<br />
+<br/>
+<br/>
 
   <img align="right" alt="GIF" src="images/developer4.gif" width="400px" />
 
@@ -25,9 +26,9 @@ ___
 - 📫 Por favor, envie um email para bruno.wesley77@gmail.com para me encontrar.
 - 📝 Veja meu <a href="https://gitconnected.com/brunodantass/resume" target="_blank">Curriculum Vitae</a> para mais informações.
 
-<br />
-<br />
-<br />
+<br/>
+<br/>
+<br/>
 
 **Linguagens e ferramentas:**  
 
@@ -43,15 +44,16 @@ ___
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
-<br />
-<br />
+<br/>
+<br/>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=brunodantass&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="GitHub Stats" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodantass&layout=compact&theme=graywhite&title_color=268bd2" alt="Most Used Languages" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=brunodantass&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="GitHub Stats" width="400" height="190"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodantass&layout=compact&theme=graywhite&title_color=268bd2" alt="Most Used Languages" width="400" height="190"/>
 </p>
 
-<br />
-<br />
+<br/>
+<br/>
+<br/>
 
 ⭐️ Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique)
