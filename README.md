@@ -52,10 +52,7 @@ ___
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodantass&layout=compact&theme=graywhite&title_color=268bd2" alt="Most Used Languages" width="370" height="150"/>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=BrunoDantasS" alt="Profile Views"/>
-</p>
-
+<br/>
 <br/>
 <br/>
 
