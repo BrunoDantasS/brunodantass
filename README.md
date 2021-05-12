@@ -18,10 +18,10 @@ ___
 
   <img align="right" alt="GIF" src="images/developer4.gif" width="400px" />
 
-- 👨🏽‍💻 Atualmente estou graduando em Análise e Desenvolvimentos de Sistemas na [Estácio](https://estacio.br/);
-- 🌱 Em paralelo, venho me capacitando para ser um **Desenvolvedor Fullstack** com a ajuda da [Trybe](https://www.betrybe.com/) 🚀;
+- 👨🏽‍💻 Atualmente estou graduando em Análise e Desenvolvimentos de Sistemas;
+- 💼 Em paralelo, faço estágio como Desenvolvedor na [NewM](http://newm.com.br/) 🚀;
+- 🌱 Estou sempre em busca de conhecimento para evoluir na minha carreira de desenvolvedor;
 - 🤔 Meu hobbie é jogar xadrez &nbsp;<img src="images/chess-board.svg" width="20px">;
-- 💼 Estou sempre em busca de conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro conversar;
 - 📫 Por favor, envie um email para bruno.wesley77@gmail.com para me encontrar.
 - 📝 Veja meu <a href="https://gitconnected.com/brunodantass/resume" target="_blank">Curriculum Vitae</a> para mais informações.
