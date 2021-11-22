@@ -1,49 +1,34 @@
-### Boas Vindas!👋
-
-_Meu nome **Bruno** e sou um desenvolvedor de software apaixonado por melancia_ <img src="images/melancia.svg" width="25px">
-___
-
-<div align="right">
-<a href="https://www.linkedin.com/in/brunodantass/">
-  <img alt="Bruno's LinkdeIn" width="50px" src="images/linkedin.svg" />
-</a>
-<a href="mailto:bruno.wesley77@gmail.com" target="_blank">
-  <img alt="Bruno's e-mail" width="50px" src="images/gmail.svg">
-</a>
-</div>
+## Boas Vindas!👋
+<br/>
 
 **Meus interesses pessoais:**
 <br/>
-<br/>
 
-  <img align="right" alt="GIF" src="images/developer4.gif" width="400px" />
+  <img align="right" alt="Gif" src="images/developer4.gif" width="400px" />
 
-- 👨🏽‍💻 Atualmente estou graduando em Análise e Desenvolvimentos de Sistemas;
-- 💼 Em paralelo, faço estágio como Desenvolvedor na [NewM](http://newm.com.br/) 🚀;
-- 🌱 Estou sempre em busca de conhecimento para evoluir na minha carreira de desenvolvedor;
-- 🤔 Meu hobbie é jogar xadrez &nbsp;<img src="images/chess-board.svg" width="20px">;
-- 💬 Pergunte-me sobre qualquer coisa, adoro conversar;
-- 📫 Por favor, envie um email para bruno.wesley77@gmail.com para me encontrar.
-- 📝 Veja meu <a href="https://gitconnected.com/brunodantass/resume" target="_blank">Curriculum Vitae</a> para mais informações.
+- 👨🏽‍💻 Atualmente estou graduando em Análise e Desenvolvimentos de Sistemas.
+- 💼 Em paralelo, faço estágio como Desenvolvedor na [NewM](http://newm.com.br/).
+- 🌱 Estou sempre em busca de conhecimento para evoluir na minha carreira de desenvolvedor.
+- <img src="images/chess-board.svg" width="20px"> Meu hobbie é jogar xadrez e tocar vioão.
+- 📝 Veja meu <a href="https://gitconnected.com/brunodantass/resume" target="_blank">currículo</a> para mais informações.
 
 <br/>
 <br/>
 <br/>
 
-**Linguagens e ferramentas:**  
+<a href="https://www.linkedin.com/in/brunodantass" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="https://api.whatsapp.com/send?phone=5511985736572" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+<a href = "mailto:alexsgross@hotmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-DF4132?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35"/> 
-  <img src="images/java.svg" width="35"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="35"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
-
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -56,4 +41,7 @@ ___
 <br/>
 <br/>
 
-⭐️ Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique)
+**Baseado em:**<br/>
+⭐️[Johnatas Henrique](https://github.com/johnatas-henrique)<br/>
+⭐️[Alex Gross](https://github.com/alexsgross)
+  
