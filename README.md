@@ -6,8 +6,7 @@
 
   <img align="right" alt="Gif" src="images/developer4.gif" width="400px" />
 
-- 👨🏽‍💻 Atualmente estou graduando em Análise e Desenvolvimentos de Sistemas.
-- 💼 Em paralelo, faço estágio na área de desenvolviento de software.
+- 👨🏽‍💻 Atualmente estou graduando em Engenharia de Software.
 - 🌱 Estou sempre em busca de conhecimento para evoluir na minha carreira de desenvolvedor.
 - <img src="images/chess-board.svg" width="20px"> Meu hobbie é jogar xadrez e tocar vioão.
 - 📝 Veja meu <a href="https://gitconnected.com/brunodantass/resume" target="_blank">currículo</a> para mais informações.
